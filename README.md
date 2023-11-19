@@ -1,1 +1,1 @@
-# .github
+# Falkenberg Digital GmbH
